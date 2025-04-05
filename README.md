@@ -39,8 +39,5 @@ Veja abaixo uma prévia do funcionamento da página interativa:
 - **CSS3**: estilização e responsividade
 - **JavaScript (Vanilla)**: manipulação do DOM para interatividade
 
-## 📦 Como rodar o projeto
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
