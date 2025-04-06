@@ -10,18 +10,7 @@ Esta página simula uma experiência de compra de um produto Apple, com foco no 
 - Trocar o modelo ou a cor do relógio
 - Visualizar imagens que se atualizam dinamicamente com base na cor escolhida
 
-## 🎥 Demonstração
-
-Veja abaixo uma prévia do funcionamento da página interativa:
-
-![Apple Watch Interativo](./demo.gif)
-![Demonstração do projeto](imagens/apple.gif)
-![Preview interativo](apple.gif)
-
-
-
-
-
+  
 ## 🧩 Funcionalidades
 
 - ✅ **Zoom na imagem do relógio**
